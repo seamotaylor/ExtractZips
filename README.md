@@ -1,4 +1,4 @@
-# ExtractZipss
+# ExtractZips
 
 A lightweight utility that extracts all `.zip` files in the same directory as the executable.
 
