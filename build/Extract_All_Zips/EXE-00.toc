@@ -1,9 +1,9 @@
 ('C:\\Users\\a481584\\OneDrive - Volvo '
  'Group\\PycharmProjects\\ExtractZips\\dist\\Extract_All_Zips.exe',
- True,
  False,
  False,
- 'C:\\Users\\a481584\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ False,
+ 'C:\\Users\\a481584\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
  None,
  False,
  False,
@@ -260,8 +260,8 @@
  [],
  False,
  False,
- 1736925099,
- [('run.exe',
-   'C:\\Users\\a481584\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+ 1753244309,
+ [('runw.exe',
+   'C:\\Users\\a481584\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
  'C:\\Users\\a481584\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll')
