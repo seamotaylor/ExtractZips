@@ -36,6 +36,6 @@ if __name__ == "__main__":
     # Call the function to extract zip files
     extract_zip_files(directory)
 
-#executable generator
+#executable generator, run in terminal
 #pyinstaller --onefile --noconsole --name=Extract_All_Zips main.py
 
