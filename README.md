@@ -4,11 +4,11 @@ A robust utility for extracting ZIP archives, including nested ZIP files, with c
 
 ## Features
 
-- 🚀 **Automatic Extraction**: Recursively extracts all ZIP files in the target directory
-- 🔄 **Nested ZIP Support**: Handles archives within archives with ease
-- 🛡️ **Error Resilience**: Gracefully handles permission issues and corrupted files
-- 📝 **Detailed Logging**: Provides clear feedback about the extraction process
-- 🖥️ **Flexible Execution**: Works as both a Python script and a standalone executable
+- **Automatic Extraction**: Recursively extracts all ZIP files in the target directory
+- **Nested ZIP Support**: Handles archives within archives with ease
+- **Error Resilience**: Gracefully handles permission issues and corrupted files
+- **Detailed Logging**: Provides clear feedback about the extraction process
+- **Flexible Execution**: Works as both a Python script and a standalone executable
 
 ## Installation
 
